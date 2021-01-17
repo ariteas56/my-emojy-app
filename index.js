@@ -1,5 +1,5 @@
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
-
+const myEmojis = ["👨‍💻", "⛷", "🍲", "XX"]
 function renderEmojis() {
     const emojiContainer = document.getElementById("emoji-container")
     emojiContainer.innerHTML = ""
